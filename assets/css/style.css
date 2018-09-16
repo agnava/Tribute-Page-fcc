@@ -1,12 +1,33 @@
 #img-div{
-        
+        display: block;
         margin-left: auto;
         margin-right: auto;
     
-        
-
     }
-    #img-caption{
-         
+    #title{
+        background-color: antiquewhite;
         
+    }
+ul{
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 20px;
+    
+}
+.italic{
+    font-style: italic;
+    font-size: 20px;
+}
+#margin{
+   text-align: center;
+   margin-left: 10%;
+   margin-right: 10%;
+}
+#center{
+    text-align: center;
+}
+#bold{
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
 }
